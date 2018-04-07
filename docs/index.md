@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# Welcome to AP US History Review
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+This website contains information useful for those reviewing for the AP US History exam. 
 
-## Commands
+## Purpose
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+* To gather evidence for thematic analysis of US History
+* To practice HTS of Continuity and Change Over Time/Synthesis
+* To review essential content for AP Exam
+
 
 ## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Each topic is subdivided onto its own page and each page contains information for all 9 Collegeboard defined periods.
