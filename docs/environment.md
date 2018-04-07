@@ -9,7 +9,7 @@
 ## Period 4: 1800-1848
 
 #### Manifest Destiny
-Manifest Destiny was the belief that American expansion was inevitable and good for North America.  Western expansion into Native American territory and the acquirement of new lands were due to the ideals of Manifest Destiny and the feeling that the settlers of America, both those that had been there and those coming sought to seek a better life with more land and that they deserved this American dream.
+This was the belief that American expansion was inevitable and good for North America.  Western expansion into Native American territory and the acquirement of new lands were due to the ideals of Manifest Destiny and the feeling that the settlers of America, both those that had been there and those coming sought to seek a better life with more land and that they deserved this American dream.
 
 * Western Civilization developed under the ideas of Manifest Destiny due to the settlers seeking more land, and the land in the west (Native American land) belonged to the settlers rather than those who were already there.
 * Louisiana Purchase:  Under Thomas Jefferson this ideal of Manifest Destiny was spreading, and he purchased the Louisiana territory from the French to explore and give land to deserving Americans.  The act was really outside of his executive power, however, it was allowed to complete because it was deemed by the new “Judicial Review” that it was constitutional because of the benefits it provided for the country and the people.
@@ -18,7 +18,7 @@ Manifest Destiny was the belief that American expansion was inevitable and good 
 
 #### Technology
 
-Technology: Technological advancements made it much easier for those living in the US to expand further, especially west.  They made transportation easier, communication better, and the idea of exploring and acquiring new lands from a dream into a reality.
+Technological advancements made it much easier for those living in the US to expand further, especially west.  They made transportation easier, communication better, and the idea of exploring and acquiring new lands from a dream into a reality.
 
 * Steamboats: Steamboats made easy access of the waters that have proved too treacherous/expensive to cross before the development of these boats, allowed products to be moved much more easily.
 * Erie Canal: The creation of the Erie Canal was beneficial to the country as it allowed the Steamboats new paths and easier access to so many parts of the country.
@@ -26,7 +26,7 @@ Technology: Technological advancements made it much easier for those living in t
 
 #### Slavery
 
-Slavery: Slavery plagued the country, but was also something that attracted many white farmers.  The cheap labor that slavery provided and the legality of slavery in many states drew many people toward the southern states which were also good for agriculture due their soil and expansion of land.
+Slavery plagued the country, but was also something that attracted many white farmers.  The cheap labor that slavery provided and the legality of slavery in many states drew many people toward the southern states which were also good for agriculture due their soil and expansion of land.
 
 * Missouri Compromise: The Missouri Compromise developed the 36’30 line that said any states added to the Union that were geographically above that line were to be free states, and those states admitted to the Union that were below that line would be slave states.  It changed the flow of slavery and the influx of farmers toward those southern states where slavery was allowed.
 * Kansas-Nebraska Act: This Act repealed the Missouri Compromise.  It said that states could choose themselves whether they wanted to allow slavery or make it illegal, rather than the line that had decided that before this act.  This act was brutal and lead to Bleeding Kansas, but it also meant that many farmers began travelling around and living in these new states to help the votes go towards the side of making slavery legal so that politically, slave states would carry more power than free states (more of them).
