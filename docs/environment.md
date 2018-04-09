@@ -2,9 +2,43 @@
 
 ## Period 1
 
+#### Christopher Columbus
+Although not the first to arrive in America (see Native Americans), his eventual somewhat successful journey of discovery the New World for the Europeans allowed Spanish and Portuguese to start pouring in and claiming land for their own, followed by the British.
+
+#### French Arrival
+France decided to wait longer before exploring the New World, despite their very large population, and this hurt their opportunity for power in the new world because of the developments already made by the other countries when they arrived.  Their main priority was resources more than anything else, but they saw America as more of a border to cross rather than land to be cultivated, so they left it alone more than the other countries.
+
+
 ## Period 2
 
+#### Great Migration
+There were two “Great Migration”s, and they are very different from each other.  The Great Migration in the 1620s was of Puritans coming to America for a spiritual and righteous purpose rather than for the possibility of a greater economic future.  The Puritans who came over were middle class and not poor, and were very skilled; economic struggle was not their reason for moving to Massachusetts, but religious freedom was. 
+It was these Puritans who created Thanksgiving, in 1633 and 1634.
+
+#### Walking Purchase
+This was an agreement between Penn (Pennsylvania) and the Delaware Indians for the Indians to vacate much of the land available in the soon to be Pennsylvania colony, so that Americans could move into and use it.  It had a supposed area of around 1,200,000 acres available for settlers to use.
+
+#### Second Wave
+The Puritans were very picky with who they allowed into Massachusetts, and it meant many new settlers had to seek out other lands for use rather than living with the Puritans.  The second wave consisted of many less religious people who came for economic reasons, unlike the Puritans.  Their main places for settling were Rhode Island and New England.
+
+
 ## Period 3: 1754-1800
+
+#### Guerilla Warfare During American Revolution
+American soldiers gained advantage during the American Revolution because they knew the land and had home field advantage, and could therefore set up surprise attacks and ambushes on British soldiers. 
+
+#### Ohio Company
+The Ohio Company French owned everything on one side of the Ohio River, stole land from Indians, used it to grow crops and make an economic profit, caused French and Indian War
+
+#### Westward Expansion Across Mississippi
+This proclamation line forbid expansion. Native land was destroyed in conflicts with colonies, Jefferson in favor of NA - wanted agrarian society, NA move west of Mississippi River - Andrew Jackson, Left out of Treaty of Paris
+
+#### Land Ordinance of 1785
+This set up a standardized system whereby settlers could purchase title to farmland in the undeveloped west, old all land in the Northwest, 100,000 Indians lived in land extended to mississippi river, Settlers paid little land to natives
+
+#### Treaty of Greenville (1795)
+Greenville Treaty Line, which was for several years a boundary between Native American territory and lands open to European-American settlers. The latter frequently disregarded the treaty line as they continued to encroach on Native American lands
+
 
 ## Period 4: 1800-1848
 
