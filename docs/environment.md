@@ -94,7 +94,58 @@ More land was made available for agriculture in this time than in the past 250 y
 
 ## Period 6: 1865-1898
 
+#### Separation of States During Civil War
+Before the Civil War, America was divided into essentially a slave south and a free north. The Southern states included South Carolina, Mississippi, Florida, Alabama, Georgia, Louisiana, Virginia, and Texas. These were the Confederacy, and declared their secession because they disliked abolitionist movement and Lincoln’s goals for his presidency. The border states were Arkansas, Tennessee, and North Carolina. They were neutral but still had slavery. Finally, the Northern states were Maine, New York, New Hampshire, Vermont, Massachusetts, Connecticut, Rhode Island, Pennsylvania, New Jersey, Ohio, Indiana, Illinois, Kansas, Michigan, Wisconsin, Minnesota, Iowa, California, Nevada, and Oregon. These states were the Union, and were free states under Abraham Lincoln.
+
+#### Sharecropping (1865)
+The South had established a cotton based economy and relied heavily on slave labor to meet their quota. After slavery was abolished, sharecropping was establishing. Sharecropping is essentially when a black family rented a plantation and supplies to work. They would pay for crop rent and seeds tools, leaving very little left for their profit. Often, blacks were left  in debt and had a dependence on cotton production because they couldn’t secure jobs elsewhere. This continued the separation between wealthy planter elite and poor.
+
+#### Indian Reservation Systems (Dawes act, Wounded Knee Massacre) (1870s)
+There was continued marginalization of the Native Americans. The Dawes Act authorized the President of the United States to survey American Indian tribal land and divide it into allotments for individual Indians. The wounded New Massacre was resulted in over 150 Lakota Indians being killed because the government wanted to disarm the tribe.
+
+#### Yellowstone National Park (1872)
+Yellowstone National Park was established by the U.S. Congress and signed into law by President Ulysses S. Grant. It was the first national park in the U.S. and is also widely held to be the first national park in the world.
+
+#### Hatch Act (1887)
+This act provided federal support for agricultural research and experiment stations.
+
+#### Environmental Effects
+Pollution increased due to industrialization. The drought on the plains called for federal irrigation.
+
 ## Period 7: 1890-1945
+
+#### Philippine War (1899 - 1902)
+The Philippine War timeline includes the Annexation of Hawaii, Acquisition of Philippines, Puerto Rico, Guam, and qualified sovereignty for Cuba. It ended in the Platt Amendment, which was an amendment to the new Cuban constitution that authorized U.S. intervention in Cuba to protect its interests. Cuba pledged not to make treaties with other countries that might compromise its independence, and it granted naval bases to the United States, most notable being Guantanamo Bay. The war ended with the U.S. gaining naval and commercial power through foreign outposts. There was an initial welcome in former Spanish colonies for U.S. forces because they were an agent for expansion of trade and social order and social reform and national self-rule.
+
+#### Lacey Act (1900)
+This act prohibits trade in wildlife, fish, and plants that have been illegally taken, possessed, transported, or sold.
+
+#### First National Refuge Created (1903)
+Refuges protects animals.
+
+#### U.S. Forest Service Created (1905)
+The US Forest Service administers the nation's 154 national forests and 20 national grasslands, which encompass 193 million acres.
+
+#### Antiquities Act (1906)
+This act gives president authority to create and protect national monuments.
+
+#### National Park Service (1916)
+The National Park Service manages all national parks, many national monuments, and other conservation and historical properties with various title designations.
+
+#### Russian Revolution (1919)
+The Russian Revolution was when the US allied with other countries to combat spread of communism (utilization of land). In Europe, there was a spread of communist-led government's, which resulted in general strikes, peasant movements, anti-colonial campaigns, and counter-mobilization. The Allies intervened with the Soviet Union’s practices, but there were limits of Wilson's internationalism, and contributed to the receding of postwar radicalism around world. Similarly to WWI, it was the Allied Powers (Britain, France, Russia, Japan) versus Central Powers (Germany, Austria-Hungary, Ottoman Empire).
+
+#### Dust Bowl (1930 - 1936)
+The Dust Bowl was a period of severe dust storms that greatly damaged the ecology and agriculture and caused severe drought. Famers deep plowed virgin topsoil, which caused lots of dust to blow, hence the “Dust Bowl.” This created a  period without growth of crops and led to the Great Depression.
+
+#### Agricultural Adjustment Act (1933)
+Under the New Deal, FDR established the AAA. Its goal was the revival of farm prices and incomes; however, it contributed to an  uneven impact on farmers, where there were gains for landowning farmers, but exclusion and displacement of tenants, sharecroppers. It ultimately worsened rural hardship, and along with the Dust Bowl contributed to the mass displacement of Farmers.  The hardships are documented in John Steinbeck's The Grapes of Wrath.
+
+#### Japanese Concentration Camps (1942 - 1946)
+The government used these to isolate Japanese from society. After Pearl Harbor, Japanese people were dehumanized and sent to concentration camps.  FDR's Executive Order 9066 ordered the Japanese to expulsion in internment camps and negated their civil liberties. The Supreme Court affirmed FDR’s order through Korematsu v. United States, as they stated the exclusion order was constitutional.
+
+#### John Muir
+Known as the "Father of the National Parks," John Muir was an environmental philosopher, advocate for the preservation of wilderness in the United States, and an advocate for the preservation the Yosemite Valley, Sequoia National Park and many other wilderness areas. He co- founded The Sierra Club, a prominent American conservation organization that helped preserve national parks.
 
 ## Period 8: 1945-1980
 
